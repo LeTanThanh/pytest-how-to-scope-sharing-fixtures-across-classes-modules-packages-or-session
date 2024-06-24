@@ -1,0 +1,1 @@
+# pytest-how-to-scope-sharing-fixtures-across-classes-modules-packages-or-session
